@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("Hello Github!");
         System.out.println("Hello GIT!");
-        System.out.println("New sout");
+        System.out.println("New Sout");
+        System.out.println("12345");
     }
 }
